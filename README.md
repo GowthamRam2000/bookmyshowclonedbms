@@ -29,3 +29,4 @@ Submission  The project presentation has to be done by each member to show perio
 •	The project could be extended depending on the functionalities of the project as follows:
 o	If time permits, we also hope to incorporate media files like Movie Trailers as the part of the tables inside our database, by storing their relative links, and using these references to embed the media files inside the design of our Swing GUI, to make the project more appealing, using the Java VideoPlayer library class. 
 
+PS: This app is better than bookmyshow.
