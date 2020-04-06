@@ -13,7 +13,7 @@ import javax.swing.*;
 
 /**
  *
- * @author rohan
+ * @author ram
  */
 public class Booking_Page1 extends javax.swing.JFrame {
 
